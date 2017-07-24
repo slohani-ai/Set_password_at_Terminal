@@ -29,3 +29,5 @@ xi. Note: There is also a "Back Door", in case, when you lost the password (line
 
 
 Caution: It uses the computer camera and takes a snap after three consecutive faliure while providing an user name and password. The taken snaps are stored in your home directory and desktop as Uknown_Host.png, which keep tracks who was trying to unlock your terminal. You can delete them at later, if you like.
+
+Please let me know if you need binary version i.e. setup files in order to directly install these scripts into your pre-built library.
