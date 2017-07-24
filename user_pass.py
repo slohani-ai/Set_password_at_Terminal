@@ -143,6 +143,6 @@ def delete(name):
 	else:
 	    pass
     if len(mask) != 0:
-        pass
+        pass 
     else:
         print ('Users could not be located')
