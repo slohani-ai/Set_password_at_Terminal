@@ -34,7 +34,7 @@ def open_account(name):
     command = raw_input('y/n?  :')
     if command == 'y':
         key = getpass.getpass('key:  ')
-	if key == '46113':
+	if key == '00000':
 	    openn2()
         else:
             sys.exit('Key did not match')
@@ -62,7 +62,7 @@ def display(name):
     print ('')
     key = getpass.getpass('Administrative key:   ')
 
-    if key == '46113':
+    if key == '00000':
        pass
     else:
         sys.exit('Key did not match')
