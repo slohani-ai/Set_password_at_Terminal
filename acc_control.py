@@ -11,8 +11,8 @@ elif argv == 'display':
     up.display(name)
 elif argv == 'insert':
     up.insert(name)
-elif argv == 'extract':
-    up.extract(name)
+#elif argv == 'extract':
+#    up.extract(name)
 elif argv == 'delete':
     up.delete(name)
 elif argv == 'passcode':
