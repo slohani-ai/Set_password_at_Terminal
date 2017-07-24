@@ -23,4 +23,4 @@ ix. After creating and inserting user account to data base file (p.db, after com
 
 x. Close the terminal and open again, you are supposed to see the password window. Type your password and enjoy.
 
-xi. Note: There is alos a "Back Door" in case you completely forget your password.  
+xi. Note: There is alos a "Back Door" in case you completely forget your password (line 36 at passcode.py). 
