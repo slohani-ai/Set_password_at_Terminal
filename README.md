@@ -1,5 +1,5 @@
 # Set_password_at_Terminal
-Want to secure the terminal (Mac, Linux, windows not tested yet), give it a try. 
+Want to secure the terminal (Mac, Linux, windows not tested yet), give it a try at your own risk. 
 
 Req. Libraries: Anaconda, opencv
 
@@ -13,7 +13,7 @@ iv. If you want to add another user account then again repeat step (iii)
 
 v. Test run, Run 'python acc_control.py passcode' and give it user name and password that you have just created.
 
-vi. Update: If you think you need to update any information (name, user account etc) then run 'python acc_control.py update' and follow the instructions. "you might need a personal 'key, default is 00000, you can change this any time (line 37 and 65 of acc_control.py).
+vi. Update: If you think you need to update any information (name, user account etc) then run 'python acc_control.py update' and follow the instructions. you might need a personal "key", default is 00000, you can change it any time (line 37 and 65 of acc_control.py).
 
 vii. Delete: run 'python acc_control.py delete', and follow the instructions
 
@@ -23,4 +23,4 @@ ix. After creating and inserting user account to data base file (p.db, after com
 
 x. Close the terminal and open again, you are supposed to see the password window. Type your password and enjoy.
 
-xi. Note: There is alos a "Back Door" in case you completely forget your password (line 36 at passcode.py). 
+xi. Note: There is also a "Back Door", in case, you completely forget your password (line 36 at passcode.py). 
