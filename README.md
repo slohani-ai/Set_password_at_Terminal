@@ -25,7 +25,7 @@ ix. After creating and inserting the user account to data base file (p.db, after
 
 x. Close the terminal and open again, you are supposed to see the password window. Type your password and enjoy.
 
-xi. Note: There is also a "Back Door", in case, you completely forget your password (line 36 at passcode.py). 
+xi. Note: There is also a "Back Door", in case, when you lost the password (line 36 at passcode.py). 
 
 
 Caution: It uses the computer camera and takes a snap after three consecutive faliure while providing an user name and password. The taken snaps are stored in your home directory and desktop as Uknown_Host.png, which keep tracks who was trying to unlock your terminal. You can delete them at later, if you like.
