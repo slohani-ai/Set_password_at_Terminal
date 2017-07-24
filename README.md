@@ -3,7 +3,7 @@ Want to secure the terminal (Mac, Linux, windows not tested yet), give it a try 
 
 Req. Libraries: Anaconda, opencv, termcolor
 
-Caution: It uses the computer camera and takes a snap after three consecutive faliure while providing an user name and password. The snaps are stored in your home directory and desktop as Uknown_Host.png, which keep tracks of who was trying to unlock your terminal. You can delete them at later, if you like.
+Caution: It uses the computer camera and takes a snap after three consecutive faliure while providing an user name and password. The snaps are stored in your home directory and desktop as Uknown_Host.png, which keep tracks of who was trying to unlock your terminal. You can delete them later, if you like.
 
 1. First, place all the scripts to the home directory.
 
