@@ -21,7 +21,7 @@ vii. Delete: run 'python acc_control.py delete', and follow the instructions
 
 viii. Display: If you want to read the data-base of your accounts, run 'python acc_control display' and follow the instructions
 
-ix. After creating and inserting user account to data base file (p.db, after completing steps i to iii), edit your '.bashrc or .bash_profile' file and add a line 'python acc_control passcode' at the end.
+ix. After creating and inserting the user account to data base file (p.db, after completing steps i to iii), edit your '.bashrc or .bash_profile' file at home dir and add a line 'python acc_control passcode' at the end.
 
 x. Close the terminal and open again, you are supposed to see the password window. Type your password and enjoy.
 
