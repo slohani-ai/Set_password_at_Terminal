@@ -15,7 +15,7 @@ Caution: It uses the computer camera and takes a snap after three consecutive fa
 
 5. Test run, Run 'python acc_control.py passcode' and give it user name and password that you have just created.
 
-6. Update: If you think you need to update any information (name, user account etc) then run 'python acc_control.py update' and follow the instructions. you might need a personal "key", default is 00000, you can change it any time (line 37 and 65 of acc_control.py).
+6. Update: If you think you need to update any information (name, user account etc) then run 'python acc_control.py update' and follow the instructions. you might need a personal "key", default is 00000, you can change it any time (line 37 and 65 of user_pass.py).
 
 7. Delete: run 'python acc_control.py delete', and follow the instructions.
 
